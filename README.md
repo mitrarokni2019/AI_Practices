@@ -4,7 +4,7 @@ The purpose of these practices was to evalute and compare huristic optimization 
 
 
 __________________________________________________________________________________________________
-#1   -Gradient Descent Optimization &  Auto-Differentiation
+# 1   -Gradient Descent Optimization &  Auto-Differentiation
 - Task B-  Gradient Descent: Numpy/Manual Calculations.
 - Task C-  Gradients using difference finite difference ratios.
 - Task D-  Auto-differentiation with TensorFlow2.
@@ -13,17 +13,13 @@ ________________________________________________________________________________
 
 
 __________________________________________________________________________________________________
-#2   - Particle Swarm Optimization 
+# 2   - Particle Swarm Optimization 
      This practice aimed to develpe a simple algorithms. PSO file was developed by Mohammed Al-Jaff. 
      In the first step, 10 particles were generated randmoly. Then those particles were modified and updated based on the two formula, and each time their loactions 
      were visualized by file_PSO. each time they  approximately approached toward the optimal spot (minimum spot in curve) 
 
 __________________________________________________________________________________________________
-$ 3  -Fitting parametric models having relatively few parameters:
-
-     In this practice, 
- 
- 
+# 3  -Fitting parametric models having relatively few parameters:
 
 
 __________________________________________________________________________________________________
