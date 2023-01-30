@@ -2,7 +2,8 @@
 Artificial  Inteligence & Optimization
 The purpose of these practices was to evalute and compare huristic optimization method with neural network method(ANN)
 
-**********************************************
+
+__________________________________________________________________________________________________
 #1   -Gradient Descent Optimization &  Auto-Differentiation
 - Task B-  Gradient Descent: Numpy/Manual Calculations.
 - Task C-  Gradients using difference finite difference ratios.
@@ -11,13 +12,13 @@ The purpose of these practices was to evalute and compare huristic optimization 
 
 
 
-*********************************************
+__________________________________________________________________________________________________
 #2   - Particle Swarm Optimization 
 This practice aimed to develpe a simple algorithms. PSO file was developed by Mohammed Al-Jaff. 
  In the first step, 10 particles were generated randmoly. Then those particles were modified and updated based on the two formula, and each time their loactions 
  were visualized by file_PSO. each time they  approximately approached toward the optimal spot (minimum spot in curve) 
 
-**************************************************************************
+__________________________________________________________________________________________________
 $ 3  -Fitting parametric models having relatively few parameters:
 
 In this practice, 
@@ -25,8 +26,10 @@ In this practice,
  
 
 
-************************************************************************
-# 4  -Artificial Neural Networks for Regression & Classification
+__________________________________________________________________________________________________
+
+# 4  -Artificial Neural Networks for Regression & Classification.
+
 
 - Task A - 1D Linear and non-linear regression - using simple FANNs.
 
