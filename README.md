@@ -1,4 +1,5 @@
-# AI_Practices# AI4IA :   **   Artificial  Inteligence & Optimization  **
+# AI_Practices# AI4IA :  
+Artificial  Inteligence & Optimization
 The purpose of these practices was to evalute and compare huristic optimization method with neural network method(ANN)
 
 **********************************************
